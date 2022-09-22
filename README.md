@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lepterion
-- 👀 I’m interested in Bot development, WPF
+- 👀 I’m interested in Bot development, WPF, Android dev
 - 🌱 I’m currently learning C#
 
 <!---
