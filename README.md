@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Lepterion
 - 👀 I’m interested in Bot development, SCP: Secret Laboratory EXILED plugin development, WPF, Android dev
 - 🌱 I’m currently learning C#
+- 🇺🇦 I live in Ukraine, Brovary
+- 📚 I'm a student
 
 <!---
 Lepterion/Lepterion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
