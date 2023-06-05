@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bot development, SCP: Secret Laboratory EXILED plugin development, WPF, Android dev
 - 🌱 I’m currently learning C#
 - 🇺🇦 I live in Ukraine, Brovary
-- 📚 I'm a student
+- 📚 I’m a student of the Brovary Lyceum No. 5
 
 <!---
 Lepterion/Lepterion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
