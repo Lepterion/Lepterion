@@ -2,7 +2,7 @@
 - 👀 I’m interested in Bot development, SCP: Secret Laboratory EXILED plugin development, WPF, Android dev
 - 🌱 I’m currently learning C#
 - 🇺🇦 I live in Ukraine, Brovary
-- 📚 I’m a student of the Brovary Lyceum No. 5 since 2014
+- 📚 I’m a student of the Taras Shevchenko National University of Kyiv
 - 🎂 Birthday on 30 March
 
 <!---
