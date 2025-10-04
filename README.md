@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lepterion
-- 👀 I’m interested in Bot development, SCP: Secret Laboratory EXILED plugin development, WPF, Android dev
+- 👀 I’m interested in Fullstack development, creating bots for Discord, SCP: Secret Laboratory EXILED plugin development, WPF, making apps for Android
 - 🌱 I’m currently learning C#
 - 🇺🇦 I live in Ukraine, Brovary
 - 📚 I’m a student of the Taras Shevchenko National University of Kyiv
